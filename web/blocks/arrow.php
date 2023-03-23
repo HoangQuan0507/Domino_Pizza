@@ -1,0 +1,1 @@
+<span id="go_to_top" class="go-to-top"><i class="flaticon-up-arrow"></i></span>
